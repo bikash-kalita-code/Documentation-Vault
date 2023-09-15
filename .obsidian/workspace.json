@@ -11,40 +11,11 @@
             "id": "2c8251c607a751d7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2023-09-15.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "19a6299f0dc226f2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "test file.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "778dab99d02ee15e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "final testing.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "final testing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "final testing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "final testing.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -171,10 +138,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "778dab99d02ee15e",
+  "active": "2c8251c607a751d7",
   "lastOpenFiles": [
-    "test file.md",
+    "2023-09-15.md",
+    "Version Control System and Git",
     "final testing.md",
-    "2023-09-15.md"
+    "test file.md"
   ]
 }
