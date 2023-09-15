@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "19a6299f0dc226f2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "test file.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023-09-15.md",
+                "file": "test file.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023-09-15.md",
+                "file": "test file.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023-09-15.md"
+                "file": "test file.md"
               }
             }
           }
@@ -146,8 +159,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2c8251c607a751d7",
+  "active": "19a6299f0dc226f2",
   "lastOpenFiles": [
-    "2023-09-15.md"
+    "2023-09-15.md",
+    "test file.md"
   ]
 }
