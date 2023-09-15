@@ -1,0 +1,3 @@
+- **Agnostic** : In computing, a device or software program is said to be agnostic or data agnostic if the method or format of data transmission is irrelevant to the device or program's function. This means that the device or program can receive data in multiple formats or from multiple sources, and still process that data effectively. ^2fe824
+- **Coupled** : Coupled systems have an effect on each other.
+- **Decoupled** : Decoupled systems are systems that do not have an impact on each other. ^eaf843
