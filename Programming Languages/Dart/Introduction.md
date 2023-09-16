@@ -26,3 +26,16 @@ A shorthand `=>` (_arrow_) syntax is handy for functions that contain a single
 ```
 flybyObjects.where((name) => name.contains('turn')).forEach(print);
 ```
+
+### Comments
+```
+  // This is a single line comment
+  
+  /*
+   * 
+   * This is a,
+   *  multi-line comment
+   * 
+   */
+```
+
