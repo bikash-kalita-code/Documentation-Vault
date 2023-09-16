@@ -14,8 +14,19 @@
               "type": "empty",
               "state": {}
             }
+          },
+          {
+            "id": "4cc2adb3580edb73",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.13"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -138,7 +149,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2c8251c607a751d7",
+  "active": "4cc2adb3580edb73",
   "lastOpenFiles": [
     "2023-09-15.md",
     "Version Control System and Git",
