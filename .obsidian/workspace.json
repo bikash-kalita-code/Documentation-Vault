@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming Languages/Rust/README.md",
+                "file": "DSA/README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming Languages/Rust/README.md",
+                "file": "DSA/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming Languages/Rust/README.md",
+                "file": "DSA/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming Languages/Rust/README.md"
+                "file": "DSA/README.md"
               }
             }
           }
@@ -146,12 +146,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "002754f909b6b1ea",
+  "active": "4cc2adb3580edb73",
   "lastOpenFiles": [
+    "Programming Languages/Rust/README.md",
+    "DSA/README.md",
     "DSA/Algorithms",
     "DSA/Data Structures",
     "DSA",
-    "Programming Languages/Rust/README.md",
     "Programming Languages/Dart/Introduction.md",
     "Programming Languages/Python",
     "Programming Languages/Rust",
@@ -160,7 +161,6 @@
     "Programming Languages/JavaScript - NodeJS",
     "Programming Languages/TypeScript",
     "Machine Learning",
-    "Programming Languages/Programming Languages Fundamentals",
     "2023-09-15.md",
     "final testing.md",
     "test file.md"
