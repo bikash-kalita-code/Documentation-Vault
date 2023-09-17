@@ -1,0 +1,20 @@
+### Important Points
+- Entry point of electron applications is `main.js`
+- `author` and `description` must be mentioned inside `package.json`
+- In Electron, each window displays web contents that can be loaded from either a local HTML file or a remote URL.
+- The [`app`](https://www.electronjs.org/docs/latest/api/app) module, which controls your application's event lifecycle.
+- The [`BrowserWindow`](https://www.electronjs.org/docs/latest/api/browser-window) module, which creates and manages application windows.
+- In Electron, browser windows can only be created after the `app` module's [`ready`](https://www.electronjs.org/docs/latest/api/app#event-ready) event is fired. You can wait for this event by using the [`app.whenReady()`](https://www.electronjs.org/docs/latest/api/app#appwhenready) API.
+- Application windows behave differently on each OS, and Electron puts the responsibility on developers to implement these conventions in their app.
+	- In general, you can use the `process` global's [`platform`](https://nodejs.org/api/process.html#process_process_platform) attribute to run code specifically for certain operating systems.
+- **[Quit the app when all windows are closed (Windows & Linux)](https://www.electronjs.org/docs/latest/tutorial/quick-start#quit-the-app-when-all-windows-are-closed-windows--linux "Direct link to Quit the app when all windows are closed (Windows & Linux)")**
+	- On Windows and Linux, exiting all windows generally quits an application entirely.
+	- To implement this, listen for the `app` module's [`'window-all-closed'`](https://www.electronjs.org/docs/latest/api/app#event-window-all-closed) event, and call [`app.quit()`](https://www.electronjs.org/docs/latest/api/app#appquit) if the user is not on macOS (`darwin`).
+- **[Open a window if none are open (macOS)](https://www.electronjs.org/docs/latest/tutorial/quick-start#open-a-window-if-none-are-open-macos "Direct link to Open a window if none are open (macOS)")**
+	- Whereas Linux and Windows apps quit when they have no windows open, macOS apps generally continue running even without any windows open, and activating the app when no windows are available should open a new one.
+	- To implement this feature, listen for the `app` module's [`activate`](https://www.electronjs.org/docs/latest/api/app#event-activate-macos) event, and call your existing `createWindow()` method if no browser windows are open.
+	- Because windows cannot be created before the `ready` event, you should only listen for `activate` events after your app is initialized. Do this by attaching your event listener from within your existing `whenReady()` callback.
+- Access Node.js from the renderer with a preload script
+	- To print out the version numbers for Electron and its dependencies onto your web page.
+		- Accessing this information is trivial to do in the main process through Node's global `process` object. However, you can't just edit the DOM from the main process because it has no access to the renderer's `document` context. They're in entirely different processes!
+		- This is where attaching a **preload** script to your renderer comes in handy. A preload script runs before the renderer process is loaded, and has access to both renderer globals (e.g. `window` and `document`) and a Node.js environment.

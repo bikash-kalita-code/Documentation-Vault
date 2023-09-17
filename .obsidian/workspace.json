@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "df69d1d09c6600eb",
+        "id": "4fbdbe75a86d9e7a",
         "type": "tabs",
         "children": [
           {
-            "id": "4cc2adb3580edb73",
+            "id": "65294c48c889c0be",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DSA/README.md",
+                "file": "Desktop Applications/Frameworks/Electron/README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DSA/README.md",
+                "file": "Desktop Applications/Frameworks/Electron/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DSA/README.md",
+                "file": "Desktop Applications/Frameworks/Electron/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DSA/README.md"
+                "file": "Desktop Applications/Frameworks/Electron/README.md"
               }
             }
           }
@@ -146,10 +146,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4cc2adb3580edb73",
+  "active": "65294c48c889c0be",
   "lastOpenFiles": [
-    "Programming Languages/Rust/README.md",
     "DSA/README.md",
+    "Desktop Applications/Frameworks/Electron/README.md",
+    "Desktop Applications/Frameworks/Electron",
+    "Desktop Applications/Frameworks",
+    "Desktop Applications",
+    "Frontend Engineering/Untitled",
+    "Programming Languages/Rust/README.md",
     "DSA/Algorithms",
     "DSA/Data Structures",
     "DSA",
@@ -157,10 +162,6 @@
     "Programming Languages/Python",
     "Programming Languages/Rust",
     "Programming Languages/Java",
-    "Programming Languages/C",
-    "Programming Languages/JavaScript - NodeJS",
-    "Programming Languages/TypeScript",
-    "Machine Learning",
     "2023-09-15.md",
     "final testing.md",
     "test file.md"
