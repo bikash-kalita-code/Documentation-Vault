@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "QA/Cypress/Continuous Integration with Cypress/README.md",
+                "file": "QA/Cypress/Cypress Project Folder Structure/README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "QA/Cypress/Continuous Integration with Cypress/README.md",
+                "file": "QA/Cypress/Cypress Project Folder Structure/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "QA/Cypress/Continuous Integration with Cypress/README.md",
+                "file": "QA/Cypress/Cypress Project Folder Structure/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "QA/Cypress/Continuous Integration with Cypress/README.md"
+                "file": "QA/Cypress/Cypress Project Folder Structure/README.md"
               }
             }
           }
@@ -146,13 +146,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0cd2c8990379903a",
+  "active": "002754f909b6b1ea",
   "lastOpenFiles": [
+    "QA/Cypress/Cypress Project Folder Structure/assets/images/Screenshot 2023-09-18 165900.png",
+    "QA/Cypress/Cypress Project Folder Structure/assets/images",
+    "QA/Cypress/Cypress Project Folder Structure/assets",
+    "QA/Cypress/Continuous Integration with Cypress/README.md",
+    "QA/Cypress/Cypress Project Folder Structure/README.md",
+    "QA/Cypress/Cypress Project Folder Structure",
     "images/AngularCI.md",
     "images",
     "QA/Cypress/Continuous Integration with Cypress/assets/images/AngularCI.png",
     "QA/Cypress/Continuous Integration with Cypress/assets/images/Angular CI 1.png",
-    "QA/Cypress/Continuous Integration with Cypress/README.md",
     "QA/Cypress/Continuous Integration with Cypress/assets/images/Screenshot 2023-09-18 151030.png",
     "QA/Cypress/Continuous Integration with Cypress/assets/Screenshot 2023-09-18 151030.png",
     "QA/Cypress/Continuous Integration with Cypress/assets/images",
@@ -163,10 +168,7 @@
     "DSA/README.md",
     "Desktop Applications/Frameworks/Electron",
     "Desktop Applications/Frameworks",
-    "Desktop Applications",
-    "Frontend Engineering/Untitled",
     "Programming Languages/Rust/README.md",
-    "DSA/Algorithms",
     "Programming Languages/Dart/Introduction.md",
     "2023-09-15.md",
     "final testing.md",
