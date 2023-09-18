@@ -39,4 +39,23 @@
 4. Run cypress tests
 5. Stop web server
 
-### 
+### Build Code and Start Server
+`npm install -D npm-run-all`
+The package **`npm-run-all`** allows us to run tasks in serial or in parallel and it allows us to do it in a cross-platform environment. 
+
+```
+# run in serial lint:ci and build:prod
+npx run-s lint:ci build:prod
+```
+```
+npm install -D start-server-and-test
+```
+```
+# run start server, wait for localhost:4200, and run cy:run
+# "ci:start-server": "angular-http-server --path ./dist/ngws -p 4200"
+# "cy:run": "cypress run",
+npx start-server-and-test ci:start-server 4200 cy:run
+```
+
+![[AngularCI.png]]
+
