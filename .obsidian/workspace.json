@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Desktop Applications/Frameworks/Electron/README.md",
+                "file": "QA/Cypress/Continuous Integration with Cypress/README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Desktop Applications/Frameworks/Electron/README.md",
+                "file": "QA/Cypress/Continuous Integration with Cypress/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Desktop Applications/Frameworks/Electron/README.md",
+                "file": "QA/Cypress/Continuous Integration with Cypress/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Desktop Applications/Frameworks/Electron/README.md"
+                "file": "QA/Cypress/Continuous Integration with Cypress/README.md"
               }
             }
           }
@@ -148,8 +148,11 @@
   },
   "active": "65294c48c889c0be",
   "lastOpenFiles": [
-    "DSA/README.md",
     "Desktop Applications/Frameworks/Electron/README.md",
+    "QA/Cypress/Continuous Integration with Cypress/README.md",
+    "QA/Cypress/Continuous Integration with Cypress",
+    "QA/Cypress",
+    "DSA/README.md",
     "Desktop Applications/Frameworks/Electron",
     "Desktop Applications/Frameworks",
     "Desktop Applications",
@@ -160,8 +163,6 @@
     "DSA",
     "Programming Languages/Dart/Introduction.md",
     "Programming Languages/Python",
-    "Programming Languages/Rust",
-    "Programming Languages/Java",
     "2023-09-15.md",
     "final testing.md",
     "test file.md"
