@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "QA/Cypress/Cypress Project Folder Structure/README.md",
+                "file": "Desktop Applications/Frameworks/Electron/README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "QA/Cypress/Cypress Project Folder Structure/README.md",
+                "file": "Desktop Applications/Frameworks/Electron/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "QA/Cypress/Cypress Project Folder Structure/README.md",
+                "file": "Desktop Applications/Frameworks/Electron/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "QA/Cypress/Cypress Project Folder Structure/README.md"
+                "file": "Desktop Applications/Frameworks/Electron/README.md"
               }
             }
           }
@@ -146,13 +146,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "002754f909b6b1ea",
+  "active": "0cd2c8990379903a",
   "lastOpenFiles": [
+    "QA/Cypress/Cypress Project Folder Structure/README.md",
     "QA/Cypress/Cypress Project Folder Structure/assets/images/Screenshot 2023-09-18 165900.png",
     "QA/Cypress/Cypress Project Folder Structure/assets/images",
     "QA/Cypress/Cypress Project Folder Structure/assets",
     "QA/Cypress/Continuous Integration with Cypress/README.md",
-    "QA/Cypress/Cypress Project Folder Structure/README.md",
     "QA/Cypress/Cypress Project Folder Structure",
     "images/AngularCI.md",
     "images",
