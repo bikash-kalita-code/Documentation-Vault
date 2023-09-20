@@ -19,6 +19,7 @@
 	- To print out the version numbers for Electron and its dependencies onto your web page.
 		- Accessing this information is trivial to do in the main process through Node's global `process` object. However, you can't just edit the DOM from the main process because it has no access to the renderer's `document` context. They're in entirely different processes!
 		- This is where attaching a **preload** script to your renderer comes in handy. A preload script runs before the renderer process is loaded, and has access to both renderer globals (e.g. `window` and `document`) and a Node.js environment.
+- Preload scripts are injected before a web page loads in the renderer, similar to a Chrome extension's [content scripts](https://developer.chrome.com/docs/extensions/mv3/content_scripts/). To add features to your renderer that require privileged access, you can define [global](https://developer.mozilla.org/en-US/docs/Glossary/Global_object) objects through the [contextBridge](https://www.electronjs.org/docs/latest/api/context-bridge) API.
 
 ### Package and distribute your application[​](https://www.electronjs.org/docs/latest/tutorial/quick-start#package-and-distribute-your-application "Direct link to Package and distribute your application")
 - The fastest way to distribute your newly created app is using [Electron Forge](https://www.electronforge.io/).
