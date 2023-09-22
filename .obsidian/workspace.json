@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "30dfd39a66c34404",
+        "id": "f4946ca2c75ef39c",
         "type": "tabs",
         "children": [
           {
-            "id": "0cd2c8990379903a",
+            "id": "98a0253fc2ad9578",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Desktop Applications/Frameworks/Electron/README.md",
+                "file": "Programming Languages/Java/README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Desktop Applications/Frameworks/Electron/README.md",
+                "file": "Programming Languages/Java/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Desktop Applications/Frameworks/Electron/README.md",
+                "file": "Programming Languages/Java/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Desktop Applications/Frameworks/Electron/README.md"
+                "file": "Programming Languages/Java/README.md"
               }
             }
           }
@@ -146,15 +146,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0cd2c8990379903a",
+  "active": "98a0253fc2ad9578",
   "lastOpenFiles": [
+    "Programming Languages/Java/README.md",
+    "Desktop Applications/Frameworks/Electron/README.md",
+    "images/AngularCI.md",
     "QA/Cypress/Cypress Project Folder Structure/README.md",
     "QA/Cypress/Cypress Project Folder Structure/assets/images/Screenshot 2023-09-18 165900.png",
     "QA/Cypress/Cypress Project Folder Structure/assets/images",
     "QA/Cypress/Cypress Project Folder Structure/assets",
     "QA/Cypress/Continuous Integration with Cypress/README.md",
     "QA/Cypress/Cypress Project Folder Structure",
-    "images/AngularCI.md",
     "images",
     "QA/Cypress/Continuous Integration with Cypress/assets/images/AngularCI.png",
     "QA/Cypress/Continuous Integration with Cypress/assets/images/Angular CI 1.png",
@@ -162,7 +164,6 @@
     "QA/Cypress/Continuous Integration with Cypress/assets/Screenshot 2023-09-18 151030.png",
     "QA/Cypress/Continuous Integration with Cypress/assets/images",
     "QA/Cypress/Continuous Integration with Cypress/assets",
-    "Desktop Applications/Frameworks/Electron/README.md",
     "QA/Cypress/Continuous Integration with Cypress",
     "QA/Cypress",
     "DSA/README.md",
