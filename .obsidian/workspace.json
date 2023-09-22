@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming Languages/Java/README.md",
+                "file": "Frontend Engineering/General Concepts/Building Blocks of a Web Application.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming Languages/Java/README.md",
+                "file": "Frontend Engineering/General Concepts/Building Blocks of a Web Application.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming Languages/Java/README.md",
+                "file": "Frontend Engineering/General Concepts/Building Blocks of a Web Application.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming Languages/Java/README.md"
+                "file": "Frontend Engineering/General Concepts/Building Blocks of a Web Application.md"
               }
             }
           }
@@ -149,6 +149,9 @@
   "active": "98a0253fc2ad9578",
   "lastOpenFiles": [
     "Programming Languages/Java/README.md",
+    "Frontend Engineering/General Concepts/Building Blocks of a Web Application.md",
+    "Frontend Engineering/General Concepts",
+    "Frontend Engineering/Frameworks",
     "Desktop Applications/Frameworks/Electron/README.md",
     "images/AngularCI.md",
     "QA/Cypress/Cypress Project Folder Structure/README.md",
@@ -167,8 +170,6 @@
     "QA/Cypress/Continuous Integration with Cypress",
     "QA/Cypress",
     "DSA/README.md",
-    "Desktop Applications/Frameworks/Electron",
-    "Desktop Applications/Frameworks",
     "Programming Languages/Rust/README.md",
     "Programming Languages/Dart/Introduction.md",
     "2023-09-15.md",
