@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Frontend Engineering/HTML/HTML Concepts.md",
+                "file": "Frontend Engineering/CSS/README.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Frontend Engineering/HTML/HTML Concepts.md",
+                "file": "Frontend Engineering/CSS/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Frontend Engineering/HTML/HTML Concepts.md",
+                "file": "Frontend Engineering/CSS/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Frontend Engineering/HTML/HTML Concepts.md"
+                "file": "Frontend Engineering/CSS/README.md"
               }
             }
           }
@@ -158,11 +158,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "002754f909b6b1ea",
+  "active": "9468d53919c6c574",
   "lastOpenFiles": [
-    "Frontend Engineering/HTML/HTML Tags",
-    "Frontend Engineering/HTML/README.md",
+    "Frontend Engineering/CSS/CSS Concepts.md",
     "Frontend Engineering/HTML/HTML Concepts.md",
+    "Frontend Engineering/HTML/README.md",
+    "Frontend Engineering/HTML/HTML Tags",
     "Frontend Engineering/HTML/What is HTML.md",
     "Web Technologies/Browsers/How Browsers Work.md",
     "Web Technologies/Browsers/README.md",
