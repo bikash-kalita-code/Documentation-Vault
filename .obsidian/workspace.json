@@ -4,16 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "f4946ca2c75ef39c",
+        "id": "afe683eb42d60f8d",
         "type": "tabs",
         "children": [
           {
-            "id": "98a0253fc2ad9578",
+            "id": "9468d53919c6c574",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Frontend Engineering/General Concepts/DOM.md",
+                "file": "Frontend Engineering/HTML/HTML Concepts.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "23d1d858bf44f71a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dictionary.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Frontend Engineering/General Concepts/DOM.md",
+                "file": "Frontend Engineering/HTML/HTML Concepts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Frontend Engineering/General Concepts/DOM.md",
+                "file": "Frontend Engineering/HTML/HTML Concepts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Frontend Engineering/General Concepts/DOM.md"
+                "file": "Frontend Engineering/HTML/HTML Concepts.md"
               }
             }
           }
@@ -148,36 +160,47 @@
   },
   "active": "002754f909b6b1ea",
   "lastOpenFiles": [
+    "Frontend Engineering/HTML/HTML Tags",
+    "Frontend Engineering/HTML/README.md",
+    "Frontend Engineering/HTML/HTML Concepts.md",
+    "Frontend Engineering/HTML/What is HTML.md",
+    "Web Technologies/Browsers/How Browsers Work.md",
+    "Web Technologies/Browsers/README.md",
+    "Web Technologies/SVG/What are SVG.md",
+    "Web Technologies/Browsers",
+    "Dictionary.md",
+    "CS Fundamentals/Network Engineering/1. Fundamentals of Networking/OSI Model.md",
+    "CS Fundamentals/Network Engineering/1. Fundamentals of Networking/Client-Server Architecture.md",
+    "Web Technologies/SVG/README.md",
+    "Web Technologies/SVG/Untitled.md",
+    "Web Technologies/SVG",
+    "Web Technologies",
+    "Untitled.md",
+    "Frontend Engineering/JavaScript/What is JavaScript.md",
+    "Frontend Engineering/JavaScript/README.md",
+    "Programming Languages/JavaScript - NodeJS/README.md",
+    "Frontend Engineering/CSS/README.md",
+    "Frontend Engineering/CSS/What is CSS.md",
+    "Frontend Engineering/JavaScript",
+    "Frontend Engineering/CSS",
+    "QA/Cypress/Continuous Integration with Cypress/README.md",
+    "QA/Cypress/Cypress Project Folder Structure/README.md",
+    "Frontend Engineering/General Concepts/DOM.md",
+    "Frontend Engineering/HTML",
     "Frontend Engineering/General Concepts/assets/images/Pasted image 20230922182042.png",
     "Frontend Engineering/General Concepts/Rendering User Interfaces (UI).md",
-    "Frontend Engineering/General Concepts/DOM.md",
     "Frontend Engineering/General Concepts/DOM",
     "Frontend Engineering/General Concepts/D",
     "Frontend Engineering/General Concepts/assets/images/HTML_DOM.png",
     "Frontend Engineering/General Concepts/assets/images",
-    "Frontend Engineering/General Concepts/assets",
     "Frontend Engineering/General Concepts/Building Blocks of a Web Application.md",
-    "Frontend Engineering/Frameworks/NextJS",
     "Programming Languages/Java/README.md",
-    "Frontend Engineering/General Concepts",
-    "Frontend Engineering/Frameworks",
     "Desktop Applications/Frameworks/Electron/README.md",
     "images/AngularCI.md",
-    "QA/Cypress/Cypress Project Folder Structure/README.md",
     "QA/Cypress/Cypress Project Folder Structure/assets/images/Screenshot 2023-09-18 165900.png",
-    "QA/Cypress/Cypress Project Folder Structure/assets/images",
-    "QA/Cypress/Cypress Project Folder Structure/assets",
-    "QA/Cypress/Continuous Integration with Cypress/README.md",
-    "QA/Cypress/Cypress Project Folder Structure",
     "QA/Cypress/Continuous Integration with Cypress/assets/images/AngularCI.png",
     "QA/Cypress/Continuous Integration with Cypress/assets/images/Angular CI 1.png",
     "QA/Cypress/Continuous Integration with Cypress/assets/images/Screenshot 2023-09-18 151030.png",
-    "QA/Cypress/Continuous Integration with Cypress/assets/Screenshot 2023-09-18 151030.png",
-    "DSA/README.md",
-    "Programming Languages/Rust/README.md",
-    "Programming Languages/Dart/Introduction.md",
-    "2023-09-15.md",
-    "final testing.md",
-    "test file.md"
+    "QA/Cypress/Continuous Integration with Cypress/assets/Screenshot 2023-09-18 151030.png"
   ]
 }

@@ -9,5 +9,5 @@
 - Clients have commodity hardware
 - Clients can still perform lightweight tasks
 - Clients no longer require dependencies
-- However, we need a communic ation model
+- However, we need a communication model
 
