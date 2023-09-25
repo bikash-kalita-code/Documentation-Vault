@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Frontend Engineering/General Concepts/Building Blocks of a Web Application.md",
+                "file": "Frontend Engineering/General Concepts/DOM.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Frontend Engineering/General Concepts/Building Blocks of a Web Application.md",
+                "file": "Frontend Engineering/General Concepts/DOM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Frontend Engineering/General Concepts/Building Blocks of a Web Application.md",
+                "file": "Frontend Engineering/General Concepts/DOM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Frontend Engineering/General Concepts/Building Blocks of a Web Application.md"
+                "file": "Frontend Engineering/General Concepts/DOM.md"
               }
             }
           }
@@ -146,10 +146,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "98a0253fc2ad9578",
+  "active": "002754f909b6b1ea",
   "lastOpenFiles": [
-    "Programming Languages/Java/README.md",
+    "Frontend Engineering/General Concepts/assets/images/Pasted image 20230922182042.png",
+    "Frontend Engineering/General Concepts/Rendering User Interfaces (UI).md",
+    "Frontend Engineering/General Concepts/DOM.md",
+    "Frontend Engineering/General Concepts/DOM",
+    "Frontend Engineering/General Concepts/D",
+    "Frontend Engineering/General Concepts/assets/images/HTML_DOM.png",
+    "Frontend Engineering/General Concepts/assets/images",
+    "Frontend Engineering/General Concepts/assets",
     "Frontend Engineering/General Concepts/Building Blocks of a Web Application.md",
+    "Frontend Engineering/Frameworks/NextJS",
+    "Programming Languages/Java/README.md",
     "Frontend Engineering/General Concepts",
     "Frontend Engineering/Frameworks",
     "Desktop Applications/Frameworks/Electron/README.md",
@@ -160,15 +169,10 @@
     "QA/Cypress/Cypress Project Folder Structure/assets",
     "QA/Cypress/Continuous Integration with Cypress/README.md",
     "QA/Cypress/Cypress Project Folder Structure",
-    "images",
     "QA/Cypress/Continuous Integration with Cypress/assets/images/AngularCI.png",
     "QA/Cypress/Continuous Integration with Cypress/assets/images/Angular CI 1.png",
     "QA/Cypress/Continuous Integration with Cypress/assets/images/Screenshot 2023-09-18 151030.png",
     "QA/Cypress/Continuous Integration with Cypress/assets/Screenshot 2023-09-18 151030.png",
-    "QA/Cypress/Continuous Integration with Cypress/assets/images",
-    "QA/Cypress/Continuous Integration with Cypress/assets",
-    "QA/Cypress/Continuous Integration with Cypress",
-    "QA/Cypress",
     "DSA/README.md",
     "Programming Languages/Rust/README.md",
     "Programming Languages/Dart/Introduction.md",
