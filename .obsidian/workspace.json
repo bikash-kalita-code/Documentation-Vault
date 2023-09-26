@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Frontend Engineering/CSS/README.md",
+                "file": "Frontend Engineering/CSS/CSS Concepts.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Frontend Engineering/CSS/README.md",
+                "file": "Frontend Engineering/CSS/CSS Concepts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Frontend Engineering/CSS/README.md",
+                "file": "Frontend Engineering/CSS/CSS Concepts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Frontend Engineering/CSS/README.md"
+                "file": "Frontend Engineering/CSS/CSS Concepts.md"
               }
             }
           }
@@ -158,9 +158,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9468d53919c6c574",
+  "active": "002754f909b6b1ea",
   "lastOpenFiles": [
+    "ActivityTracker",
+    "Frontend Engineering/CSS/assets/images",
+    "Frontend Engineering/CSS/assets",
+    "Frontend Engineering/CSS/assets/images/CSS Ruleset.png",
     "Frontend Engineering/CSS/CSS Concepts.md",
+    "Frontend Engineering/CSS/What is CSS.md",
+    "Frontend Engineering/CSS/README.md",
     "Frontend Engineering/HTML/HTML Concepts.md",
     "Frontend Engineering/HTML/README.md",
     "Frontend Engineering/HTML/HTML Tags",
@@ -180,8 +186,6 @@
     "Frontend Engineering/JavaScript/What is JavaScript.md",
     "Frontend Engineering/JavaScript/README.md",
     "Programming Languages/JavaScript - NodeJS/README.md",
-    "Frontend Engineering/CSS/README.md",
-    "Frontend Engineering/CSS/What is CSS.md",
     "Frontend Engineering/JavaScript",
     "Frontend Engineering/CSS",
     "QA/Cypress/Continuous Integration with Cypress/README.md",
@@ -191,13 +195,10 @@
     "Frontend Engineering/General Concepts/assets/images/Pasted image 20230922182042.png",
     "Frontend Engineering/General Concepts/Rendering User Interfaces (UI).md",
     "Frontend Engineering/General Concepts/DOM",
-    "Frontend Engineering/General Concepts/D",
     "Frontend Engineering/General Concepts/assets/images/HTML_DOM.png",
-    "Frontend Engineering/General Concepts/assets/images",
     "Frontend Engineering/General Concepts/Building Blocks of a Web Application.md",
     "Programming Languages/Java/README.md",
     "Desktop Applications/Frameworks/Electron/README.md",
-    "images/AngularCI.md",
     "QA/Cypress/Cypress Project Folder Structure/assets/images/Screenshot 2023-09-18 165900.png",
     "QA/Cypress/Continuous Integration with Cypress/assets/images/AngularCI.png",
     "QA/Cypress/Continuous Integration with Cypress/assets/images/Angular CI 1.png",
