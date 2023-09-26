@@ -4,30 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "afe683eb42d60f8d",
+        "id": "e4ed52f16560f566",
         "type": "tabs",
         "children": [
           {
-            "id": "9468d53919c6c574",
+            "id": "d976ff0f1b90d0fb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "Frontend Engineering/CSS/CSS Concepts.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "23d1d858bf44f71a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dictionary.md",
-                "mode": "source",
-                "source": false
+                "file": "Tracking Boards/PORTFOLIO APPLICATION TRACKER BOARD.md"
               }
             }
           }
@@ -97,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Frontend Engineering/CSS/CSS Concepts.md",
+                "file": "Tracking Boards/PORTFOLIO APPLICATION TRACKER BOARD.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Frontend Engineering/CSS/CSS Concepts.md",
+                "file": "Tracking Boards/PORTFOLIO APPLICATION TRACKER BOARD.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,16 +123,24 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Frontend Engineering/CSS/CSS Concepts.md"
+                "file": "Tracking Boards/PORTFOLIO APPLICATION TRACKER BOARD.md"
               }
             }
+          },
+          {
+            "id": "3a4f2650290fc9ba",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -158,49 +152,48 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "002754f909b6b1ea",
+  "active": "d976ff0f1b90d0fb",
   "lastOpenFiles": [
+    "Features.md",
+    "Tracking Boards/PORTFOLIO APPLICATION TRACKER BOARD.md",
+    "Technical Documentation",
+    "Portfolio Application.md",
+    "Obsidian Plugins Documentation/Dataview.md",
+    "Tracking Boards",
+    "Obsidian Plugins Documentation/Untitled/Untitled.md",
+    "Dictionary.md",
+    "Obsidian Plugins Documentation/Untitled",
+    "Obsidian Plugins Documentation - CheatSheet",
+    "2023-09-26.md",
+    "Technical Documentation/Frontend Engineering/CSS/CSS Concepts.md",
     "ActivityTracker",
-    "Frontend Engineering/CSS/assets/images",
-    "Frontend Engineering/CSS/assets",
-    "Frontend Engineering/CSS/assets/images/CSS Ruleset.png",
-    "Frontend Engineering/CSS/CSS Concepts.md",
-    "Frontend Engineering/CSS/What is CSS.md",
-    "Frontend Engineering/CSS/README.md",
-    "Frontend Engineering/HTML/HTML Concepts.md",
-    "Frontend Engineering/HTML/README.md",
-    "Frontend Engineering/HTML/HTML Tags",
-    "Frontend Engineering/HTML/What is HTML.md",
+    "Technical Documentation/Frontend Engineering/CSS/assets/images",
+    "Technical Documentation/Frontend Engineering/CSS/assets",
+    "Technical Documentation/Frontend Engineering/CSS/assets/images/CSS Ruleset.png",
+    "Technical Documentation/Frontend Engineering/CSS/What is CSS.md",
+    "Technical Documentation/Frontend Engineering/CSS/README.md",
+    "Technical Documentation/Frontend Engineering/HTML/HTML Concepts.md",
+    "Technical Documentation/Frontend Engineering/HTML/README.md",
+    "Technical Documentation/Frontend Engineering/HTML/HTML Tags",
+    "Technical Documentation/Frontend Engineering/HTML/What is HTML.md",
     "Web Technologies/Browsers/How Browsers Work.md",
     "Web Technologies/Browsers/README.md",
     "Web Technologies/SVG/What are SVG.md",
     "Web Technologies/Browsers",
-    "Dictionary.md",
-    "CS Fundamentals/Network Engineering/1. Fundamentals of Networking/OSI Model.md",
-    "CS Fundamentals/Network Engineering/1. Fundamentals of Networking/Client-Server Architecture.md",
+    "Technical Documentation/CS Fundamentals/Network Engineering/1. Fundamentals of Networking/OSI Model.md",
+    "Technical Documentation/CS Fundamentals/Network Engineering/1. Fundamentals of Networking/Client-Server Architecture.md",
     "Web Technologies/SVG/README.md",
     "Web Technologies/SVG/Untitled.md",
     "Web Technologies/SVG",
-    "Web Technologies",
     "Untitled.md",
-    "Frontend Engineering/JavaScript/What is JavaScript.md",
-    "Frontend Engineering/JavaScript/README.md",
-    "Programming Languages/JavaScript - NodeJS/README.md",
-    "Frontend Engineering/JavaScript",
-    "Frontend Engineering/CSS",
-    "QA/Cypress/Continuous Integration with Cypress/README.md",
-    "QA/Cypress/Cypress Project Folder Structure/README.md",
-    "Frontend Engineering/General Concepts/DOM.md",
-    "Frontend Engineering/HTML",
-    "Frontend Engineering/General Concepts/assets/images/Pasted image 20230922182042.png",
-    "Frontend Engineering/General Concepts/Rendering User Interfaces (UI).md",
-    "Frontend Engineering/General Concepts/DOM",
-    "Frontend Engineering/General Concepts/assets/images/HTML_DOM.png",
-    "Frontend Engineering/General Concepts/Building Blocks of a Web Application.md",
-    "Programming Languages/Java/README.md",
-    "Desktop Applications/Frameworks/Electron/README.md",
-    "QA/Cypress/Cypress Project Folder Structure/assets/images/Screenshot 2023-09-18 165900.png",
-    "QA/Cypress/Continuous Integration with Cypress/assets/images/AngularCI.png",
+    "Technical Documentation/Frontend Engineering/JavaScript/What is JavaScript.md",
+    "Technical Documentation/Frontend Engineering/JavaScript/README.md",
+    "Technical Documentation/Programming Languages/JavaScript - NodeJS/README.md",
+    "Technical Documentation/QA/Cypress/Continuous Integration with Cypress/README.md",
+    "Technical Documentation/Frontend Engineering/General Concepts/assets/images/Pasted image 20230922182042.png",
+    "Technical Documentation/Frontend Engineering/General Concepts/assets/images/HTML_DOM.png",
+    "Technical Documentation/QA/Cypress/Cypress Project Folder Structure/assets/images/Screenshot 2023-09-18 165900.png",
+    "Technical Documentation/QA/Cypress/Continuous Integration with Cypress/assets/images/AngularCI.png",
     "QA/Cypress/Continuous Integration with Cypress/assets/images/Angular CI 1.png",
     "QA/Cypress/Continuous Integration with Cypress/assets/images/Screenshot 2023-09-18 151030.png",
     "QA/Cypress/Continuous Integration with Cypress/assets/Screenshot 2023-09-18 151030.png"
