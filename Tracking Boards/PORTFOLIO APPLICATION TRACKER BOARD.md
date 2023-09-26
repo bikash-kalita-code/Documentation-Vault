@@ -6,6 +6,8 @@ kanban-plugin: basic
 
 ## UNDER REVIEW
 
+- [ ] test 1
+- [ ] test2
 
 
 ## TO DO

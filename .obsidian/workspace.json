@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "e4ed52f16560f566",
+        "id": "6a3307a5ad95489f",
         "type": "tabs",
         "children": [
           {
-            "id": "d976ff0f1b90d0fb",
+            "id": "5fdd25302efd45b8",
             "type": "leaf",
             "state": {
               "type": "kanban",
               "state": {
-                "file": "Tracking Boards/PORTFOLIO APPLICATION TRACKER BOARD.md"
+                "file": "Tracking Boards/Untitled Kanban.md"
               }
             }
           }
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tracking Boards/PORTFOLIO APPLICATION TRACKER BOARD.md",
+                "file": "Tracking Boards/Untitled Kanban.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tracking Boards/PORTFOLIO APPLICATION TRACKER BOARD.md",
+                "file": "Tracking Boards/Untitled Kanban.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tracking Boards/PORTFOLIO APPLICATION TRACKER BOARD.md"
+                "file": "Tracking Boards/Untitled Kanban.md"
               }
             }
           },
@@ -152,10 +152,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d976ff0f1b90d0fb",
+  "active": "5fdd25302efd45b8",
   "lastOpenFiles": [
-    "Features.md",
     "Tracking Boards/PORTFOLIO APPLICATION TRACKER BOARD.md",
+    "Tracking Boards/Untitled Kanban.md",
+    "Tracking Boards/Untitled.canvas",
+    "Features.md",
     "Technical Documentation",
     "Portfolio Application.md",
     "Obsidian Plugins Documentation/Dataview.md",
