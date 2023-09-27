@@ -16,8 +16,19 @@
                 "file": "Tracking Boards/Untitled Kanban.md"
               }
             }
+          },
+          {
+            "id": "3ba005e310f4aef3",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.14"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -152,7 +163,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5fdd25302efd45b8",
+  "active": "3ba005e310f4aef3",
   "lastOpenFiles": [
     "Tracking Boards/PORTFOLIO APPLICATION TRACKER BOARD.md",
     "Tracking Boards/Untitled Kanban.md",
