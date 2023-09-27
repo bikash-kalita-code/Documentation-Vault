@@ -8,27 +8,16 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5fdd25302efd45b8",
+            "id": "3ba005e310f4aef3",
             "type": "leaf",
             "state": {
               "type": "kanban",
               "state": {
-                "file": "Tracking Boards/Untitled Kanban.md"
-              }
-            }
-          },
-          {
-            "id": "3ba005e310f4aef3",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.14"
+                "file": "Kanban/MISSION CONTROL BOARD.md"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tracking Boards/Untitled Kanban.md",
+                "file": "Kanban/MISSION CONTROL BOARD.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tracking Boards/Untitled Kanban.md",
+                "file": "Kanban/MISSION CONTROL BOARD.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tracking Boards/Untitled Kanban.md"
+                "file": "Kanban/MISSION CONTROL BOARD.md"
               }
             }
           },
@@ -163,18 +152,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3ba005e310f4aef3",
+  "active": "002754f909b6b1ea",
   "lastOpenFiles": [
-    "Tracking Boards/PORTFOLIO APPLICATION TRACKER BOARD.md",
-    "Tracking Boards/Untitled Kanban.md",
+    "Kanban/MISSION CONTROL BOARD.md",
+    "Dictionary.md",
+    "Kanban/PORTFOLIO APPLICATION TRACKER BOARD.md",
     "Tracking Boards/Untitled.canvas",
     "Features.md",
     "Technical Documentation",
     "Portfolio Application.md",
     "Obsidian Plugins Documentation/Dataview.md",
-    "Tracking Boards",
+    "Kanban",
     "Obsidian Plugins Documentation/Untitled/Untitled.md",
-    "Dictionary.md",
     "Obsidian Plugins Documentation/Untitled",
     "Obsidian Plugins Documentation - CheatSheet",
     "2023-09-26.md",
