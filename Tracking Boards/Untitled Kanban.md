@@ -9,6 +9,9 @@ kanban-plugin: basic
 - [ ] Task One
 - [ ] Task Two
 - [ ] Task Three
+- [ ] chotu chan
+- [ ] binod chan
+- [ ] deka kun
 
 
 ## Started
