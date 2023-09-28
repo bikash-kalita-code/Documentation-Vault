@@ -21,3 +21,23 @@ Each item inside the lists is put inside an [`<li>`](https://developer.mozilla.
 #### Links
 To add a link, we need to use a simple element — [`<a>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/a) — "a" being the short form for "anchor".
 You might get unexpected results if you omit the `https://` or `http://` part, called the _protocol_, at the beginning of the web address.
+
+#### Anchor : `<a>`
+An anchor can make the text it encloses into a hyperlink. Anchors can take a number of attributes, but several are as follows:
+`href` : This attribute's value specifies the web address for the link. For example: `href="https://www.mozilla.org/"`.
+`title` : The `title` attribute specifies extra information about the link, such as a description of the page that is being linked to. For example, `title="The Mozilla homepage"`. This appears as a tooltip when a cursor hovers over the element.
+`target` : The `target` attribute specifies the browsing context used to display the link. For example, `target="_blank"` will display the link in a new tab. If you want to display the linked content in the current tab, just omit this attribute.
+
+#### Boolean attributes
+Sometimes you will see attributes written without values. This is entirely acceptable. These are called Boolean attributes. Boolean attributes can only have one value, which is generally the same as the attribute name. For example, consider the [`disabled`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input#disabled) attribute, which you can assign to form input elements. (You use this to _disable_ the form input elements so the user can't make entries. The disabled elements typically have a grayed-out appearance.) For example:
+```html
+<input type="text" disabled="disabled" />
+```
+As shorthand, it is acceptable to write this as follows:
+```html
+<!-- using the disabled attribute prevents the end user from entering text into the input box -->
+<input type="text" disabled />
+
+<!-- text input is allowed, as it doesn't contain the disabled attribute -->
+<input type="text" />
+```
