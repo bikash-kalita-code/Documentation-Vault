@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "6a3307a5ad95489f",
+        "id": "f4331af075395989",
         "type": "tabs",
         "children": [
           {
-            "id": "3ba005e310f4aef3",
+            "id": "2cb1b8917b22e4e1",
             "type": "leaf",
             "state": {
               "type": "kanban",
               "state": {
-                "file": "Kanban/MISSION CONTROL BOARD.md"
+                "file": "Kanban/Learning/Data Structures and Algorithms/Data Structures.md"
               }
             }
           }
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kanban/MISSION CONTROL BOARD.md",
+                "file": "Kanban/Learning/Data Structures and Algorithms/Data Structures.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kanban/MISSION CONTROL BOARD.md",
+                "file": "Kanban/Learning/Data Structures and Algorithms/Data Structures.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kanban/MISSION CONTROL BOARD.md"
+                "file": "Kanban/Learning/Data Structures and Algorithms/Data Structures.md"
               }
             }
           },
@@ -149,14 +149,21 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-day-planner:Week plan": false
     }
   },
   "active": "002754f909b6b1ea",
   "lastOpenFiles": [
+    "Kanban/Learning/Data Structures and Algorithms/Data Structures.md",
+    "Kanban/Learning/Data Structures and Algorithms/Untitled.md",
     "Kanban/MISSION CONTROL BOARD.md",
+    "Kanban/Learning/Data Structures and Algorithms",
+    "Kanban/Learning",
+    "Kanban/Projects/Portfolio Application/PORTFOLIO APPLICATION.md",
+    "Kanban/Projects/Portfolio Application",
+    "Kanban/Projects",
     "Dictionary.md",
-    "Kanban/PORTFOLIO APPLICATION TRACKER BOARD.md",
     "Tracking Boards/Untitled.canvas",
     "Features.md",
     "Technical Documentation",
@@ -170,28 +177,22 @@
     "Technical Documentation/Frontend Engineering/CSS/CSS Concepts.md",
     "ActivityTracker",
     "Technical Documentation/Frontend Engineering/CSS/assets/images",
-    "Technical Documentation/Frontend Engineering/CSS/assets",
     "Technical Documentation/Frontend Engineering/CSS/assets/images/CSS Ruleset.png",
     "Technical Documentation/Frontend Engineering/CSS/What is CSS.md",
     "Technical Documentation/Frontend Engineering/CSS/README.md",
     "Technical Documentation/Frontend Engineering/HTML/HTML Concepts.md",
     "Technical Documentation/Frontend Engineering/HTML/README.md",
-    "Technical Documentation/Frontend Engineering/HTML/HTML Tags",
     "Technical Documentation/Frontend Engineering/HTML/What is HTML.md",
     "Web Technologies/Browsers/How Browsers Work.md",
     "Web Technologies/Browsers/README.md",
     "Web Technologies/SVG/What are SVG.md",
-    "Web Technologies/Browsers",
     "Technical Documentation/CS Fundamentals/Network Engineering/1. Fundamentals of Networking/OSI Model.md",
     "Technical Documentation/CS Fundamentals/Network Engineering/1. Fundamentals of Networking/Client-Server Architecture.md",
     "Web Technologies/SVG/README.md",
     "Web Technologies/SVG/Untitled.md",
-    "Web Technologies/SVG",
     "Untitled.md",
     "Technical Documentation/Frontend Engineering/JavaScript/What is JavaScript.md",
     "Technical Documentation/Frontend Engineering/JavaScript/README.md",
-    "Technical Documentation/Programming Languages/JavaScript - NodeJS/README.md",
-    "Technical Documentation/QA/Cypress/Continuous Integration with Cypress/README.md",
     "Technical Documentation/Frontend Engineering/General Concepts/assets/images/Pasted image 20230922182042.png",
     "Technical Documentation/Frontend Engineering/General Concepts/assets/images/HTML_DOM.png",
     "Technical Documentation/QA/Cypress/Cypress Project Folder Structure/assets/images/Screenshot 2023-09-18 165900.png",
