@@ -4,16 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "f4331af075395989",
+        "id": "325c3173df3d037f",
         "type": "tabs",
         "children": [
           {
-            "id": "2cb1b8917b22e4e1",
+            "id": "2804a274f6f7d585",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Kanban/Learning/Data Structures and Algorithms/Data Structures.md"
+                "file": "Technical Documentation/Frontend Engineering/CSS/CSS Concepts.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kanban/Learning/Data Structures and Algorithms/Data Structures.md",
+                "file": "Technical Documentation/Frontend Engineering/CSS/CSS Concepts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kanban/Learning/Data Structures and Algorithms/Data Structures.md",
+                "file": "Technical Documentation/Frontend Engineering/CSS/CSS Concepts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kanban/Learning/Data Structures and Algorithms/Data Structures.md"
+                "file": "Technical Documentation/Frontend Engineering/CSS/CSS Concepts.md"
               }
             }
           },
@@ -153,11 +155,16 @@
       "obsidian-day-planner:Week plan": false
     }
   },
-  "active": "002754f909b6b1ea",
+  "active": "2804a274f6f7d585",
   "lastOpenFiles": [
-    "Kanban/Learning/Data Structures and Algorithms/Data Structures.md",
-    "Kanban/Learning/Data Structures and Algorithms/Untitled.md",
+    "Technical Documentation/Frontend Engineering/CSS/README.md",
+    "Technical Documentation/Frontend Engineering/CSS/What is CSS.md",
     "Kanban/MISSION CONTROL BOARD.md",
+    "Kanban/Learning/Data Structures and Algorithms/DATA STRUCTURES KANBAN.md",
+    "Kanban/Learning/Algorithms/ALGORITHMS KANBAN.md",
+    "Kanban/Learning/Algorithms/Untitled.md",
+    "Kanban/Learning/Algorithms",
+    "Kanban/Learning/Data Structures and Algorithms/Untitled.md",
     "Kanban/Learning/Data Structures and Algorithms",
     "Kanban/Learning",
     "Kanban/Projects/Portfolio Application/PORTFOLIO APPLICATION.md",
@@ -176,23 +183,18 @@
     "2023-09-26.md",
     "Technical Documentation/Frontend Engineering/CSS/CSS Concepts.md",
     "ActivityTracker",
-    "Technical Documentation/Frontend Engineering/CSS/assets/images",
     "Technical Documentation/Frontend Engineering/CSS/assets/images/CSS Ruleset.png",
-    "Technical Documentation/Frontend Engineering/CSS/What is CSS.md",
-    "Technical Documentation/Frontend Engineering/CSS/README.md",
     "Technical Documentation/Frontend Engineering/HTML/HTML Concepts.md",
     "Technical Documentation/Frontend Engineering/HTML/README.md",
     "Technical Documentation/Frontend Engineering/HTML/What is HTML.md",
-    "Web Technologies/Browsers/How Browsers Work.md",
-    "Web Technologies/Browsers/README.md",
-    "Web Technologies/SVG/What are SVG.md",
+    "Technical Documentation/Web Technologies/Browsers/How Browsers Work.md",
+    "Technical Documentation/Web Technologies/Browsers/README.md",
+    "Technical Documentation/Web Technologies/SVG/What are SVG.md",
     "Technical Documentation/CS Fundamentals/Network Engineering/1. Fundamentals of Networking/OSI Model.md",
     "Technical Documentation/CS Fundamentals/Network Engineering/1. Fundamentals of Networking/Client-Server Architecture.md",
-    "Web Technologies/SVG/README.md",
+    "Technical Documentation/Web Technologies/SVG/README.md",
     "Web Technologies/SVG/Untitled.md",
     "Untitled.md",
-    "Technical Documentation/Frontend Engineering/JavaScript/What is JavaScript.md",
-    "Technical Documentation/Frontend Engineering/JavaScript/README.md",
     "Technical Documentation/Frontend Engineering/General Concepts/assets/images/Pasted image 20230922182042.png",
     "Technical Documentation/Frontend Engineering/General Concepts/assets/images/HTML_DOM.png",
     "Technical Documentation/QA/Cypress/Cypress Project Folder Structure/assets/images/Screenshot 2023-09-18 165900.png",

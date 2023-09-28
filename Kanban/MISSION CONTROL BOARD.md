@@ -6,12 +6,13 @@ kanban-plugin: basic
 
 ## Under Consideration
 
-- [ ] [[PORTFOLIO APPLICATION]] <br>@{2023-12-31}
-- [ ] DSA
+- [ ] [[DATA STRUCTURES KANBAN|DATA STRUCTURES]]
+- [ ] [[ALGORITHMS KANBAN|ALGORITHMS]]
 
 
 ## Selected for Review
 
+- [ ] [[PORTFOLIO APPLICATION]] <br>@{2023-12-31}
 
 
 ## In Progress
