@@ -41,3 +41,13 @@ As shorthand, it is acceptable to write this as follows:
 <!-- text input is allowed, as it doesn't contain the disabled attribute -->
 <input type="text" />
 ```
+
+#### Problem with Quote
+To use quote marks inside other quote marks of the same type (single quote or double quote), use [HTML entities](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Getting_started#entity_references_including_special_characters_in_html). For example, this will break:
+```html
+<a href="https://www.example.com" title="An "interesting" reference">A link to my example.</a>
+```
+Instead, you need to do this:
+```html
+<a href="https://www.example.com" title="An &quot;interesting&quot; reference">A link to my example.</a>
+```
