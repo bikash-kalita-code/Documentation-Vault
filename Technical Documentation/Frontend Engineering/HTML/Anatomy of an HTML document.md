@@ -26,3 +26,27 @@ Here we have:
 4. `<meta charset="utf-8">`: The [`<meta>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/meta) element. This element represents metadata that cannot be represented by other HTML meta-related elements, like [`<base>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/base), [`<link>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/link), [`<script>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/script), [`<style>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/style) or [`<title>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/title). The [`charset`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/meta#charset) attribute specifies the character encoding for your document as UTF-8, which includes most characters from the vast majority of human written languages. With this setting, the page can now handle any textual content it might contain. There is no reason not to set this, and it can help avoid some problems later.
 5. `<title></title>`: The [`<title>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/title) element. This sets the title of the page, which is the title that appears in the browser tab the page is loaded in. The page title is also used to describe the page when it is bookmarked.
 6. `<body></body>`: The [`<body>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/body) element. This contains _all_ the content that displays on the page, including text, images, videos, games, playable audio tracks, or whatever else.
+
+#### Whitespace in HTML
+These two code snippets are equivalent:
+```html
+<p id="noWhitespace">Dogs are silly.</p>
+
+<p id="whitespace">Dogs
+    are
+        silly.</p>
+```
+No matter how much whitespace you use inside HTML element content (which can include one or more space characters, but also line breaks), **the HTML parser reduces each sequence of whitespace to a single space when rendering the code**. So why use so much whitespace? The answer is readability.
+**Note:** *Accessing the [innerHTML](https://developer.mozilla.org/en-US/docs/Web/API/Element/innerHTML) of elements from JavaScript will keep all the whitespace intact. This may return unexpected results if the whitespace is trimmed by the browser.*
+```js
+const noWhitespace = document.getElementById("noWhitespace").innerHTML;
+console.log(noWhitespace);
+// "Dogs are silly."
+
+const whitespace = document.getElementById("whitespace").innerHTML;
+console.log(whitespace);
+// "Dogs
+//    are
+//        silly."
+```
+#### Entity references: Including special characters in HTML
