@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0a0204f02bb35242",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Technical Documentation/Frontend Engineering/HTML/Anatomy of an HTML document.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Technical Documentation/Frontend Engineering/HTML/HTML Concepts.md",
+                "file": "Technical Documentation/Frontend Engineering/HTML/Anatomy of an HTML document.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Technical Documentation/Frontend Engineering/HTML/HTML Concepts.md",
+                "file": "Technical Documentation/Frontend Engineering/HTML/Anatomy of an HTML document.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Technical Documentation/Frontend Engineering/HTML/HTML Concepts.md"
+                "file": "Technical Documentation/Frontend Engineering/HTML/Anatomy of an HTML document.md"
               }
             }
           },
@@ -155,10 +168,11 @@
       "obsidian-day-planner:Week plan": false
     }
   },
-  "active": "2804a274f6f7d585",
+  "active": "0a0204f02bb35242",
   "lastOpenFiles": [
-    "Technical Documentation/Frontend Engineering/HTML/What is HTML.md",
+    "Technical Documentation/Frontend Engineering/HTML/Anatomy of an HTML document.md",
     "Technical Documentation/Frontend Engineering/HTML/HTML Concepts.md",
+    "Technical Documentation/Frontend Engineering/HTML/What is HTML.md",
     "Technical Documentation/Web Technologies/Browsers/Order of parsing component files by Browser.md",
     "Technical Documentation/Frontend Engineering/JavaScript/Concepts.md",
     "Technical Documentation/Frontend Engineering/CSS/CSS Concepts.md",
@@ -195,7 +209,6 @@
     "Technical Documentation/Web Technologies/SVG/What are SVG.md",
     "Technical Documentation/CS Fundamentals/Network Engineering/1. Fundamentals of Networking/OSI Model.md",
     "Technical Documentation/CS Fundamentals/Network Engineering/1. Fundamentals of Networking/Client-Server Architecture.md",
-    "Technical Documentation/Web Technologies/SVG/README.md",
     "Technical Documentation/Frontend Engineering/General Concepts/assets/images/Pasted image 20230922182042.png",
     "Technical Documentation/Frontend Engineering/General Concepts/assets/images/HTML_DOM.png",
     "Technical Documentation/QA/Cypress/Cypress Project Folder Structure/assets/images/Screenshot 2023-09-18 165900.png",
