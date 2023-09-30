@@ -545,3 +545,37 @@ flowchart TD
 
 #### Direction of subgraphs
 With the graphtype flowcharts you can use the direction statement to set the direction which the subgraph will render like in this example.
+```
+flowchart LR
+	subgraph TOP
+		direction TB
+		subgraph B1
+			direction RL
+			i1 --> f1
+		end
+		subgraph B2
+			direction BT
+			i2 --> f2
+		end
+	end
+	A --> TOP --> B
+	B1 --> B2
+```
+```mermaid
+flowchart LR
+	subgraph TOP
+		direction TB
+		subgraph B1
+			direction RL
+			i1 --> f1
+		end
+		subgraph B2
+			direction BT
+			i2 --> f2
+		end
+	end
+	A --> TOP --> B
+	B1 --> B2
+```
+**Limitation**[​](https://mermaid.js.org/syntax/flowchart.html#limitation)
+If any of a subgraph's nodes are linked to the outside, subgraph direction will be ignored. Instead the subgraph will inherit the direction of the parent graph:
