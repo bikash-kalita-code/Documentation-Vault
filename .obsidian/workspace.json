@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Technical Documentation/Frontend Engineering/HTML/Metadata in HTML.md",
+                "file": "Obsidian Plugins Documentation - CheatSheet/Mermaid JS/Flowchart.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,13 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Technical Documentation/Utilities/Mermaid JS/README.md",
+                "file": "Obsidian Plugins Documentation - CheatSheet/Mermaid JS/README.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Technical Documentation/Frontend Engineering/HTML/Metadata in HTML.md",
+                "file": "Obsidian Plugins Documentation - CheatSheet/Mermaid JS/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Technical Documentation/Frontend Engineering/HTML/Metadata in HTML.md",
+                "file": "Obsidian Plugins Documentation - CheatSheet/Mermaid JS/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Technical Documentation/Frontend Engineering/HTML/Metadata in HTML.md"
+                "file": "Obsidian Plugins Documentation - CheatSheet/Mermaid JS/README.md"
               }
             }
           },
@@ -164,14 +165,18 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-day-planner:Week plan": false
+      "obsidian-day-planner:Week plan": false,
+      "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "2804a274f6f7d585",
+  "active": "0a0204f02bb35242",
   "lastOpenFiles": [
-    "Technical Documentation/Frontend Engineering/HTML/HTML Concepts.md",
-    "Technical Documentation/Frontend Engineering/HTML/Metadata in HTML.md",
+    "Obsidian Plugins Documentation - CheatSheet/Mermaid JS/Flowchart.md",
+    "Obsidian Plugins Documentation - CheatSheet/Mermaid JS/README.md",
     "Technical Documentation/Utilities/Mermaid JS/README.md",
+    "Technical Documentation/Frontend Engineering/HTML/Metadata in HTML.md",
+    "Obsidian Plugins Documentation - CheatSheet/Mermaid JS",
+    "Technical Documentation/Frontend Engineering/HTML/HTML Concepts.md",
     "Technical Documentation/Programming Languages/Java/Java Basics/README.md",
     "Technical Documentation/Utilities/Mermaid JS",
     "Technical Documentation/Utilities",
@@ -200,14 +205,11 @@
     "Dictionary.md",
     "Tracking Boards/Untitled.canvas",
     "Features.md",
-    "Technical Documentation",
     "Portfolio Application.md",
     "Obsidian Plugins Documentation/Dataview.md",
     "Obsidian Plugins Documentation/Untitled/Untitled.md",
     "2023-09-26.md",
     "Technical Documentation/Frontend Engineering/CSS/assets/images/CSS Ruleset.png",
-    "Technical Documentation/Frontend Engineering/HTML/README.md",
-    "Technical Documentation/Web Technologies/Browsers/How Browsers Work.md",
     "Technical Documentation/Frontend Engineering/General Concepts/assets/images/Pasted image 20230922182042.png",
     "Technical Documentation/Frontend Engineering/General Concepts/assets/images/HTML_DOM.png",
     "Technical Documentation/QA and Testing/QA/Cypress/Cypress Project Folder Structure/assets/images/Screenshot 2023-09-18 165900.png",

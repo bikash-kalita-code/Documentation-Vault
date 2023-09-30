@@ -40,3 +40,10 @@ Twitter also has its own similar proprietary metadata called [Twitter Cards](ht
 ```
 
 #### Adding custom icons to your site
+A favicon can be added to your page by:
+
+1. Saving it in the same directory as the site's index page, saved in `.ico` format (most also support favicons in more common formats like `.gif` or `.png`)
+2. Adding the following line into your HTML's [`<head>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/head) block to reference it:
+```html
+<link rel="icon" href="favicon.ico" type="image/x-icon" />
+```
