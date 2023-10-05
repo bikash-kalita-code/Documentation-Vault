@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Technical Documentation/Frontend Engineering/HTML/Metadata in HTML.md",
+                "file": "Technical Documentation/Machine Learning/What is Machine Learning.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Technical Documentation/Frontend Engineering/HTML/Metadata in HTML.md",
+                "file": "Technical Documentation/Machine Learning/What is Machine Learning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Technical Documentation/Frontend Engineering/HTML/Metadata in HTML.md",
+                "file": "Technical Documentation/Machine Learning/What is Machine Learning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Technical Documentation/Frontend Engineering/HTML/Metadata in HTML.md"
+                "file": "Technical Documentation/Machine Learning/What is Machine Learning.md"
               }
             }
           },
@@ -183,6 +183,14 @@
   },
   "active": "2b25079d3e31105d",
   "lastOpenFiles": [
+    "Technical Documentation/Machine Learning/README.md",
+    "Technical Documentation/Machine Learning/What is Machine Learning.md",
+    "Technical Documentation/Machine Learning/Supervised Machine Learning/README.md",
+    "Technical Documentation/Machine Learning/Supervised Machine Learning/3. Classification",
+    "Technical Documentation/Machine Learning/Supervised Machine Learning/2. Regression with Multiple Input Variables",
+    "Technical Documentation/Machine Learning/Supervised Machine Learning/1. Introduction to Machine Learning",
+    "Technical Documentation/Frontend Engineering/HTML/Metadata in HTML.md",
+    "Technical Documentation/Machine Learning/Supervised Machine Learning",
     "Technical Documentation/Frontend Engineering/HTML/HTML Concepts.md",
     "Technical Documentation/Frontend Engineering/HTML/Anatomy of an HTML document.md",
     "Technical Documentation/Programming Languages/Java/Java Basics/README.md",
@@ -190,7 +198,6 @@
     "Technical Documentation/Utilities/Mermaid JS/README.md",
     "Obsidian Plugins Documentation - CheatSheet/Mermaid JS/Flowchart.md",
     "Obsidian Plugins Documentation - CheatSheet/Mermaid JS/README.md",
-    "Technical Documentation/Frontend Engineering/HTML/Metadata in HTML.md",
     "Obsidian Plugins Documentation - CheatSheet/Mermaid JS",
     "Technical Documentation/Utilities/Mermaid JS",
     "Technical Documentation/Utilities",
@@ -210,17 +217,10 @@
     "Kanban/Learning/Algorithms/Untitled.md",
     "Kanban/Learning/Algorithms",
     "Kanban/Learning/Data Structures and Algorithms/Untitled.md",
-    "Kanban/Learning/Data Structures and Algorithms",
-    "Kanban/Learning",
     "Kanban/Projects/Portfolio Application/PORTFOLIO APPLICATION.md",
-    "Kanban/Projects/Portfolio Application",
-    "Kanban/Projects",
     "Dictionary.md",
     "Tracking Boards/Untitled.canvas",
     "Features.md",
-    "Portfolio Application.md",
-    "Obsidian Plugins Documentation/Dataview.md",
-    "Obsidian Plugins Documentation/Untitled/Untitled.md",
     "Technical Documentation/Frontend Engineering/CSS/assets/images/CSS Ruleset.png",
     "Technical Documentation/Frontend Engineering/General Concepts/assets/images/Pasted image 20230922182042.png",
     "Technical Documentation/Frontend Engineering/General Concepts/assets/images/HTML_DOM.png",
