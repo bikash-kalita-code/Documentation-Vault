@@ -30,8 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "2b25079d3e31105d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Technical Documentation/Frontend Engineering/HTML/Metadata in HTML.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -97,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Technical Documentation/Utilities/Mermaid JS/Flowchart.md",
+                "file": "Technical Documentation/Frontend Engineering/HTML/Metadata in HTML.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Technical Documentation/Utilities/Mermaid JS/Flowchart.md",
+                "file": "Technical Documentation/Frontend Engineering/HTML/Metadata in HTML.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Technical Documentation/Utilities/Mermaid JS/Flowchart.md"
+                "file": "Technical Documentation/Frontend Engineering/HTML/Metadata in HTML.md"
               }
             }
           },
@@ -168,8 +181,10 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "0a0204f02bb35242",
+  "active": "2b25079d3e31105d",
   "lastOpenFiles": [
+    "Technical Documentation/Frontend Engineering/HTML/HTML Concepts.md",
+    "Technical Documentation/Frontend Engineering/HTML/Anatomy of an HTML document.md",
     "Technical Documentation/Programming Languages/Java/Java Basics/README.md",
     "Technical Documentation/Utilities/Mermaid JS/Flowchart.md",
     "Technical Documentation/Utilities/Mermaid JS/README.md",
@@ -177,13 +192,11 @@
     "Obsidian Plugins Documentation - CheatSheet/Mermaid JS/README.md",
     "Technical Documentation/Frontend Engineering/HTML/Metadata in HTML.md",
     "Obsidian Plugins Documentation - CheatSheet/Mermaid JS",
-    "Technical Documentation/Frontend Engineering/HTML/HTML Concepts.md",
     "Technical Documentation/Utilities/Mermaid JS",
     "Technical Documentation/Utilities",
     "Technical Documentation/QA and Testing/QA",
     "Technical Documentation/Programming Languages/Java/README.md",
     "Technical Documentation/Programming Languages/Java/Java Basics",
-    "Technical Documentation/Frontend Engineering/HTML/Anatomy of an HTML document.md",
     "Technical Documentation/Frontend Engineering/HTML/What is HTML.md",
     "Technical Documentation/Web Technologies/Browsers/Order of parsing component files by Browser.md",
     "Technical Documentation/Frontend Engineering/JavaScript/Concepts.md",
