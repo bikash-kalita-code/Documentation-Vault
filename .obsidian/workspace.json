@@ -64,9 +64,21 @@
                 "currentVersion": "1.4.16"
               }
             }
+          },
+          {
+            "id": "a9fe63a0709109ff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Technical Documentation/Backend Engineering/Frameworks/Django/MVT Design Pattern.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -116,7 +128,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 298.5
   },
   "right": {
     "id": "df01916b0714b018",
@@ -132,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Technical Documentation/Frontend Engineering/HTML/Creating Hyperlinks.md",
+                "file": "Technical Documentation/Backend Engineering/Frameworks/Django/MVT Design Pattern.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Technical Documentation/Frontend Engineering/HTML/Creating Hyperlinks.md",
+                "file": "Technical Documentation/Backend Engineering/Frameworks/Django/MVT Design Pattern.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Technical Documentation/Frontend Engineering/HTML/Creating Hyperlinks.md"
+                "file": "Technical Documentation/Backend Engineering/Frameworks/Django/MVT Design Pattern.md"
               }
             }
           },
@@ -203,13 +215,19 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "2bb33c499dc4ee2f",
+  "active": "a9fe63a0709109ff",
   "lastOpenFiles": [
     "Technical Documentation/Utilities/Mermaid JS/Flowchart.md",
+    "Technical Documentation/Backend Engineering/Frameworks/Django/MVT Design Pattern.md",
+    "Technical Documentation/Programming Languages/Java/Java Basics/README.md",
+    "Technical Documentation/System Design",
+    "Technical Documentation/Backend Engineering/Frameworks/Django/README.md",
+    "Technical Documentation/Backend Engineering/Frameworks/README.md",
+    "Technical Documentation/Backend Engineering/Frameworks/Django",
+    "Technical Documentation/Backend Engineering/Frameworks",
     "Technical Documentation/Frontend Engineering/HTML/Creating Hyperlinks.md",
     "Technical Documentation/Frontend Engineering/HTML/HTML Text Fundamentals.md",
     "Technical Documentation/Frontend Engineering/HTML/Metadata in HTML.md",
-    "Technical Documentation/Programming Languages/Java/Java Basics/README.md",
     "Technical Documentation/Machine Learning/What is Machine Learning.md",
     "Technical Documentation/Machine Learning/README.md",
     "Technical Documentation/Machine Learning/Supervised Machine Learning/README.md",
@@ -225,9 +243,7 @@
     "Obsidian Plugins Documentation - CheatSheet/Mermaid JS",
     "Technical Documentation/Utilities/Mermaid JS",
     "Technical Documentation/Utilities",
-    "Technical Documentation/QA and Testing/QA",
     "Technical Documentation/Programming Languages/Java/README.md",
-    "Technical Documentation/Programming Languages/Java/Java Basics",
     "Technical Documentation/Frontend Engineering/HTML/What is HTML.md",
     "Technical Documentation/Web Technologies/Browsers/Order of parsing component files by Browser.md",
     "Technical Documentation/Frontend Engineering/JavaScript/Concepts.md",
@@ -237,11 +253,6 @@
     "Technical Documentation/Frontend Engineering/CSS/What is CSS.md",
     "Kanban/MISSION CONTROL BOARD.md",
     "Kanban/Learning/Data Structures and Algorithms/DATA STRUCTURES KANBAN.md",
-    "Kanban/Learning/Algorithms/ALGORITHMS KANBAN.md",
-    "Kanban/Learning/Algorithms/Untitled.md",
-    "Kanban/Learning/Algorithms",
-    "Kanban/Learning/Data Structures and Algorithms/Untitled.md",
-    "Kanban/Projects/Portfolio Application/PORTFOLIO APPLICATION.md",
     "Tracking Boards/Untitled.canvas",
     "Technical Documentation/Frontend Engineering/CSS/assets/images/CSS Ruleset.png",
     "Technical Documentation/Frontend Engineering/General Concepts/assets/images/Pasted image 20230922182042.png",
