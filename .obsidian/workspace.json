@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Technical Documentation/Machine Learning/What is Machine Learning.md",
+                "file": "Technical Documentation/Machine Learning/Supervised Machine Learning/Supervised Machine Learning.md",
                 "mode": "source",
                 "source": false
               }
@@ -76,9 +76,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e6628610d2963166",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Technical Documentation/Programming Languages/Python/NOTES.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -144,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Technical Documentation/Backend Engineering/Frameworks/Django/MVT Design Pattern.md",
+                "file": "Technical Documentation/Machine Learning/Supervised Machine Learning/Supervised Machine Learning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Technical Documentation/Backend Engineering/Frameworks/Django/MVT Design Pattern.md",
+                "file": "Technical Documentation/Machine Learning/Supervised Machine Learning/Supervised Machine Learning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Technical Documentation/Backend Engineering/Frameworks/Django/MVT Design Pattern.md"
+                "file": "Technical Documentation/Machine Learning/Supervised Machine Learning/Supervised Machine Learning.md"
               }
             }
           },
@@ -215,10 +227,16 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "a9fe63a0709109ff",
+  "active": "2b25079d3e31105d",
   "lastOpenFiles": [
-    "Technical Documentation/Utilities/Mermaid JS/Flowchart.md",
+    "Technical Documentation/Machine Learning/Supervised Machine Learning/README.md",
+    "Technical Documentation/Machine Learning/Supervised Machine Learning/Supervised Machine Learning.md",
+    "Technical Documentation/Machine Learning/What is Machine Learning.md",
+    "Technical Documentation/Programming Languages/Python/NOTES.md",
+    "Technical Documentation/Programming Languages/Python/README.md",
+    "Technical Documentation/Programming Languages/Untitled",
     "Technical Documentation/Backend Engineering/Frameworks/Django/MVT Design Pattern.md",
+    "Technical Documentation/Utilities/Mermaid JS/Flowchart.md",
     "Technical Documentation/Programming Languages/Java/Java Basics/README.md",
     "Technical Documentation/System Design",
     "Technical Documentation/Backend Engineering/Frameworks/Django/README.md",
@@ -228,9 +246,7 @@
     "Technical Documentation/Frontend Engineering/HTML/Creating Hyperlinks.md",
     "Technical Documentation/Frontend Engineering/HTML/HTML Text Fundamentals.md",
     "Technical Documentation/Frontend Engineering/HTML/Metadata in HTML.md",
-    "Technical Documentation/Machine Learning/What is Machine Learning.md",
     "Technical Documentation/Machine Learning/README.md",
-    "Technical Documentation/Machine Learning/Supervised Machine Learning/README.md",
     "Technical Documentation/Machine Learning/Supervised Machine Learning/3. Classification",
     "Technical Documentation/Machine Learning/Supervised Machine Learning/2. Regression with Multiple Input Variables",
     "Technical Documentation/Machine Learning/Supervised Machine Learning/1. Introduction to Machine Learning",
@@ -242,7 +258,6 @@
     "Obsidian Plugins Documentation - CheatSheet/Mermaid JS/README.md",
     "Obsidian Plugins Documentation - CheatSheet/Mermaid JS",
     "Technical Documentation/Utilities/Mermaid JS",
-    "Technical Documentation/Utilities",
     "Technical Documentation/Programming Languages/Java/README.md",
     "Technical Documentation/Frontend Engineering/HTML/What is HTML.md",
     "Technical Documentation/Web Technologies/Browsers/Order of parsing component files by Browser.md",
@@ -251,8 +266,6 @@
     "Technical Documentation/Frontend Engineering/CSS/assets/images/css-box-model.png",
     "Technical Documentation/Frontend Engineering/CSS/README.md",
     "Technical Documentation/Frontend Engineering/CSS/What is CSS.md",
-    "Kanban/MISSION CONTROL BOARD.md",
-    "Kanban/Learning/Data Structures and Algorithms/DATA STRUCTURES KANBAN.md",
     "Tracking Boards/Untitled.canvas",
     "Technical Documentation/Frontend Engineering/CSS/assets/images/CSS Ruleset.png",
     "Technical Documentation/Frontend Engineering/General Concepts/assets/images/Pasted image 20230922182042.png",
