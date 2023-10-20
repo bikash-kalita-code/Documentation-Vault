@@ -83,14 +83,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Technical Documentation/Programming Languages/Python/NOTES.md",
+                "file": "Technical Documentation/Machine Learning/Supervised Machine Learning/Regression Model/Linear Regression Model.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -156,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Technical Documentation/Desktop Applications/Frameworks/Electron/README.md",
+                "file": "Technical Documentation/Machine Learning/Supervised Machine Learning/Regression Model/Linear Regression Model.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Technical Documentation/Desktop Applications/Frameworks/Electron/README.md",
+                "file": "Technical Documentation/Machine Learning/Supervised Machine Learning/Regression Model/Linear Regression Model.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Technical Documentation/Desktop Applications/Frameworks/Electron/README.md"
+                "file": "Technical Documentation/Machine Learning/Supervised Machine Learning/Regression Model/Linear Regression Model.md"
               }
             }
           },
@@ -227,20 +227,26 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "2b25079d3e31105d",
+  "active": "e6628610d2963166",
   "lastOpenFiles": [
-    "Technical Documentation/Machine Learning/Unsupervised Machine Learning/Unsupervised Machine Learning.md",
-    "Technical Documentation/Machine Learning/Supervised Machine Learning/Supervised Machine Learning.md",
-    "Technical Documentation/Machine Learning/Unsupervised Machine Learning/README.md",
+    "Technical Documentation/Machine Learning/Supervised Machine Learning/Regression Model/README.md",
+    "Technical Documentation/Machine Learning/Supervised Machine Learning/Regression Model/Linear Regression Model.md",
     "Technical Documentation/Machine Learning/Supervised Machine Learning/README.md",
+    "Technical Documentation/Machine Learning/Supervised Machine Learning/Regression Model",
+    "Technical Documentation/Machine Learning/Supervised Machine Learning/Regression Model.md",
+    "Technical Documentation/Machine Learning/Supervised Machine Learning/Supervised Machine Learning.md",
+    "Technical Documentation/Machine Learning/README.md",
+    "Technical Documentation/Programming Languages/Python/NOTES.md",
+    "Technical Documentation/Backend Engineering/Frameworks/Django/MVT Design Pattern.md",
+    "Technical Documentation/Programming Languages/Java/Java Basics/README.md",
+    "Technical Documentation/Desktop Applications/Frameworks/Electron/README.md",
+    "Technical Documentation/Machine Learning/Unsupervised Machine Learning/Unsupervised Machine Learning.md",
+    "Technical Documentation/Machine Learning/Unsupervised Machine Learning/README.md",
     "Technical Documentation/Machine Learning/Unsupervised Machine Learning",
     "Technical Documentation/Machine Learning/What is Machine Learning.md",
-    "Technical Documentation/Programming Languages/Python/NOTES.md",
     "Technical Documentation/Programming Languages/Python/README.md",
     "Technical Documentation/Programming Languages/Untitled",
-    "Technical Documentation/Backend Engineering/Frameworks/Django/MVT Design Pattern.md",
     "Technical Documentation/Utilities/Mermaid JS/Flowchart.md",
-    "Technical Documentation/Programming Languages/Java/Java Basics/README.md",
     "Technical Documentation/System Design",
     "Technical Documentation/Backend Engineering/Frameworks/Django/README.md",
     "Technical Documentation/Backend Engineering/Frameworks/README.md",
@@ -249,7 +255,6 @@
     "Technical Documentation/Frontend Engineering/HTML/Creating Hyperlinks.md",
     "Technical Documentation/Frontend Engineering/HTML/HTML Text Fundamentals.md",
     "Technical Documentation/Frontend Engineering/HTML/Metadata in HTML.md",
-    "Technical Documentation/Machine Learning/README.md",
     "Technical Documentation/Machine Learning/Supervised Machine Learning/3. Classification",
     "Technical Documentation/Machine Learning/Supervised Machine Learning/2. Regression with Multiple Input Variables",
     "Technical Documentation/Machine Learning/Supervised Machine Learning/1. Introduction to Machine Learning",
@@ -259,12 +264,7 @@
     "Technical Documentation/Utilities/Mermaid JS/README.md",
     "Obsidian Plugins Documentation - CheatSheet/Mermaid JS/Flowchart.md",
     "Obsidian Plugins Documentation - CheatSheet/Mermaid JS/README.md",
-    "Obsidian Plugins Documentation - CheatSheet/Mermaid JS",
     "Technical Documentation/Programming Languages/Java/README.md",
-    "Technical Documentation/Frontend Engineering/HTML/What is HTML.md",
-    "Technical Documentation/Web Technologies/Browsers/Order of parsing component files by Browser.md",
-    "Technical Documentation/Frontend Engineering/JavaScript/Concepts.md",
-    "Technical Documentation/Frontend Engineering/CSS/CSS Concepts.md",
     "Technical Documentation/Frontend Engineering/CSS/assets/images/css-box-model.png",
     "Tracking Boards/Untitled.canvas",
     "Technical Documentation/Frontend Engineering/CSS/assets/images/CSS Ruleset.png",
