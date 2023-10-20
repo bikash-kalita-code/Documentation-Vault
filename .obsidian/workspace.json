@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Technical Documentation/Machine Learning/Supervised Machine Learning/Supervised Machine Learning.md",
+                "file": "Technical Documentation/Machine Learning/Unsupervised Machine Learning/Unsupervised Machine Learning.md",
                 "mode": "source",
                 "source": false
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Technical Documentation/Machine Learning/Supervised Machine Learning/Supervised Machine Learning.md",
+                "file": "Technical Documentation/Machine Learning/Unsupervised Machine Learning/Unsupervised Machine Learning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Technical Documentation/Machine Learning/Supervised Machine Learning/Supervised Machine Learning.md",
+                "file": "Technical Documentation/Machine Learning/Unsupervised Machine Learning/Unsupervised Machine Learning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Technical Documentation/Machine Learning/Supervised Machine Learning/Supervised Machine Learning.md"
+                "file": "Technical Documentation/Machine Learning/Unsupervised Machine Learning/Unsupervised Machine Learning.md"
               }
             }
           },
@@ -229,8 +229,11 @@
   },
   "active": "2b25079d3e31105d",
   "lastOpenFiles": [
-    "Technical Documentation/Machine Learning/Supervised Machine Learning/README.md",
     "Technical Documentation/Machine Learning/Supervised Machine Learning/Supervised Machine Learning.md",
+    "Technical Documentation/Machine Learning/Unsupervised Machine Learning/Unsupervised Machine Learning.md",
+    "Technical Documentation/Machine Learning/Unsupervised Machine Learning/README.md",
+    "Technical Documentation/Machine Learning/Supervised Machine Learning/README.md",
+    "Technical Documentation/Machine Learning/Unsupervised Machine Learning",
     "Technical Documentation/Machine Learning/What is Machine Learning.md",
     "Technical Documentation/Programming Languages/Python/NOTES.md",
     "Technical Documentation/Programming Languages/Python/README.md",
@@ -257,15 +260,12 @@
     "Obsidian Plugins Documentation - CheatSheet/Mermaid JS/Flowchart.md",
     "Obsidian Plugins Documentation - CheatSheet/Mermaid JS/README.md",
     "Obsidian Plugins Documentation - CheatSheet/Mermaid JS",
-    "Technical Documentation/Utilities/Mermaid JS",
     "Technical Documentation/Programming Languages/Java/README.md",
     "Technical Documentation/Frontend Engineering/HTML/What is HTML.md",
     "Technical Documentation/Web Technologies/Browsers/Order of parsing component files by Browser.md",
     "Technical Documentation/Frontend Engineering/JavaScript/Concepts.md",
     "Technical Documentation/Frontend Engineering/CSS/CSS Concepts.md",
     "Technical Documentation/Frontend Engineering/CSS/assets/images/css-box-model.png",
-    "Technical Documentation/Frontend Engineering/CSS/README.md",
-    "Technical Documentation/Frontend Engineering/CSS/What is CSS.md",
     "Tracking Boards/Untitled.canvas",
     "Technical Documentation/Frontend Engineering/CSS/assets/images/CSS Ruleset.png",
     "Technical Documentation/Frontend Engineering/General Concepts/assets/images/Pasted image 20230922182042.png",
