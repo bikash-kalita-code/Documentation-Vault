@@ -37,8 +37,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Technical Documentation/Machine Learning/Unsupervised Machine Learning/Unsupervised Machine Learning.md",
-                "mode": "source",
+                "file": "Technical Documentation/Desktop Applications/Frameworks/Electron/README.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -156,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Technical Documentation/Machine Learning/Unsupervised Machine Learning/Unsupervised Machine Learning.md",
+                "file": "Technical Documentation/Desktop Applications/Frameworks/Electron/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Technical Documentation/Machine Learning/Unsupervised Machine Learning/Unsupervised Machine Learning.md",
+                "file": "Technical Documentation/Desktop Applications/Frameworks/Electron/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Technical Documentation/Machine Learning/Unsupervised Machine Learning/Unsupervised Machine Learning.md"
+                "file": "Technical Documentation/Desktop Applications/Frameworks/Electron/README.md"
               }
             }
           },
@@ -229,8 +229,8 @@
   },
   "active": "2b25079d3e31105d",
   "lastOpenFiles": [
-    "Technical Documentation/Machine Learning/Supervised Machine Learning/Supervised Machine Learning.md",
     "Technical Documentation/Machine Learning/Unsupervised Machine Learning/Unsupervised Machine Learning.md",
+    "Technical Documentation/Machine Learning/Supervised Machine Learning/Supervised Machine Learning.md",
     "Technical Documentation/Machine Learning/Unsupervised Machine Learning/README.md",
     "Technical Documentation/Machine Learning/Supervised Machine Learning/README.md",
     "Technical Documentation/Machine Learning/Unsupervised Machine Learning",
