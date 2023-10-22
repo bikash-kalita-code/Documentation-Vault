@@ -88,9 +88,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "179f0997cbbe88e3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dictionary.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "271e4d4bb2d29fff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "My Technology Stack.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -156,7 +180,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Technical Documentation/Machine Learning/Supervised Machine Learning/Regression Model/Linear Regression Model.md",
+                "file": "Technical Documentation/Utilities/Mermaid JS/Flowchart.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +197,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Technical Documentation/Machine Learning/Supervised Machine Learning/Regression Model/Linear Regression Model.md",
+                "file": "Technical Documentation/Utilities/Mermaid JS/Flowchart.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,7 +220,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Technical Documentation/Machine Learning/Supervised Machine Learning/Regression Model/Linear Regression Model.md"
+                "file": "Technical Documentation/Utilities/Mermaid JS/Flowchart.md"
               }
             }
           },
@@ -207,9 +231,17 @@
               "type": "calendar",
               "state": {}
             }
+          },
+          {
+            "id": "8561944ad3af2d20",
+            "type": "leaf",
+            "state": {
+              "type": "mermaid-toolbar-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -227,10 +259,12 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "e6628610d2963166",
+  "active": "8561944ad3af2d20",
   "lastOpenFiles": [
-    "Technical Documentation/Machine Learning/Supervised Machine Learning/Regression Model/README.md",
+    "Dictionary.md",
+    "My Technology Stack.md",
     "Technical Documentation/Machine Learning/Supervised Machine Learning/Regression Model/Linear Regression Model.md",
+    "Technical Documentation/Machine Learning/Supervised Machine Learning/Regression Model/README.md",
     "Technical Documentation/Machine Learning/Supervised Machine Learning/README.md",
     "Technical Documentation/Machine Learning/Supervised Machine Learning/Regression Model",
     "Technical Documentation/Machine Learning/Supervised Machine Learning/Regression Model.md",
@@ -263,8 +297,6 @@
     "Technical Documentation/Frontend Engineering/HTML/Anatomy of an HTML document.md",
     "Technical Documentation/Utilities/Mermaid JS/README.md",
     "Obsidian Plugins Documentation - CheatSheet/Mermaid JS/Flowchart.md",
-    "Obsidian Plugins Documentation - CheatSheet/Mermaid JS/README.md",
-    "Technical Documentation/Programming Languages/Java/README.md",
     "Technical Documentation/Frontend Engineering/CSS/assets/images/css-box-model.png",
     "Tracking Boards/Untitled.canvas",
     "Technical Documentation/Frontend Engineering/CSS/assets/images/CSS Ruleset.png",
