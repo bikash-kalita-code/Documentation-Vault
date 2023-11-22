@@ -6,7 +6,6 @@ kanban-plugin: basic
 
 ## TOPICS
 
-- [ ] Arrays
 - [ ] Hashing
 - [ ] Two Pointers
 - [ ] Stack
@@ -36,6 +35,7 @@ kanban-plugin: basic
 ## CONFIDENT IN ANY PROBLEMS
 
 **Complete**
+- [x] Arrays
 
 
 

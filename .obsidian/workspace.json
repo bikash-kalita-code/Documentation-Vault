@@ -56,22 +56,12 @@
             }
           },
           {
-            "id": "2bb33c499dc4ee2f",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.16"
-              }
-            }
-          },
-          {
             "id": "a9fe63a0709109ff",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Technical Documentation/Backend Engineering/Frameworks/Django/MVT Design Pattern.md",
+                "file": "Technical Documentation/Backend Engineering/Frameworks/Django and Django REST Framework/Django/MVT Design Pattern.md",
                 "mode": "source",
                 "source": false
               }
@@ -90,31 +80,79 @@
             }
           },
           {
-            "id": "179f0997cbbe88e3",
+            "id": "3174debb06ff27ac",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dictionary.md",
+                "file": "Technical Documentation/Web Technologies/XML/XPath.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "271e4d4bb2d29fff",
+            "id": "99f434746bfe88bb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "My Technology Stack.md",
+                "file": "Technical Documentation/Frontend Engineering/HTML/Creating Hyperlinks.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7ddb8ea41e2819d3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Technical Documentation/Programming Languages/Python/Concurrency in Python/Concurrency.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "24a3d9c2391aee7b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Technical Documentation/Programming Languages/Python/Concurrency in Python/Concurrency.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c29a048f273a9bde",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Technical Documentation/CS Fundamentals/OS/CPU Scheduling Basics.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "70ce1d66820aca35",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Technical Documentation/Backend Engineering/Frameworks/Django and Django REST Framework/Django REST Framework/README.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -164,7 +202,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 298.5
+    "width": 230.5
   },
   "right": {
     "id": "df01916b0714b018",
@@ -180,7 +218,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "My Technology Stack.md",
+                "file": "Technical Documentation/Backend Engineering/Frameworks/Django and Django REST Framework/Django REST Framework/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -197,7 +235,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "My Technology Stack.md",
+                "file": "Technical Documentation/Backend Engineering/Frameworks/Django and Django REST Framework/Django REST Framework/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -220,7 +258,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "My Technology Stack.md"
+                "file": "Technical Documentation/Backend Engineering/Frameworks/Django and Django REST Framework/Django REST Framework/README.md"
               }
             }
           },
@@ -233,7 +271,7 @@
             }
           },
           {
-            "id": "8561944ad3af2d20",
+            "id": "972cc7406968ae0d",
             "type": "leaf",
             "state": {
               "type": "mermaid-toolbar-view",
@@ -256,56 +294,58 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-day-planner:Week plan": false,
-      "mermaid-tools:Open Mermaid Toolbar": false
+      "mermaid-tools:Open Mermaid Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "271e4d4bb2d29fff",
+  "active": "70ce1d66820aca35",
   "lastOpenFiles": [
-    "Technical Documentation/Utilities/Mermaid JS/Flowchart.md",
-    "Dictionary.md",
-    "My Technology Stack.md",
-    "Technical Documentation/Machine Learning/Supervised Machine Learning/Regression Model/Linear Regression Model.md",
-    "Technical Documentation/Machine Learning/Supervised Machine Learning/Regression Model/README.md",
-    "Technical Documentation/Machine Learning/Supervised Machine Learning/README.md",
-    "Technical Documentation/Machine Learning/Supervised Machine Learning/Regression Model",
-    "Technical Documentation/Machine Learning/Supervised Machine Learning/Regression Model.md",
-    "Technical Documentation/Machine Learning/Supervised Machine Learning/Supervised Machine Learning.md",
-    "Technical Documentation/Machine Learning/README.md",
-    "Technical Documentation/Programming Languages/Python/NOTES.md",
-    "Technical Documentation/Backend Engineering/Frameworks/Django/MVT Design Pattern.md",
-    "Technical Documentation/Programming Languages/Java/Java Basics/README.md",
-    "Technical Documentation/Desktop Applications/Frameworks/Electron/README.md",
-    "Technical Documentation/Machine Learning/Unsupervised Machine Learning/Unsupervised Machine Learning.md",
-    "Technical Documentation/Machine Learning/Unsupervised Machine Learning/README.md",
-    "Technical Documentation/Machine Learning/Unsupervised Machine Learning",
-    "Technical Documentation/Machine Learning/What is Machine Learning.md",
-    "Technical Documentation/Programming Languages/Python/README.md",
-    "Technical Documentation/Programming Languages/Untitled",
-    "Technical Documentation/System Design",
-    "Technical Documentation/Backend Engineering/Frameworks/Django/README.md",
+    "Technical Documentation/Backend Engineering/Frameworks/Django and Django REST Framework/README.md",
+    "Technical Documentation/Backend Engineering/Frameworks/Django and Django REST Framework/Django REST Framework/README.md",
+    "Technical Documentation/Backend Engineering/Frameworks/Django and Django REST Framework/Django REST Framework",
+    "Technical Documentation/Backend Engineering/Frameworks/Django and Django REST Framework/Django/README.md",
     "Technical Documentation/Backend Engineering/Frameworks/README.md",
-    "Technical Documentation/Backend Engineering/Frameworks/Django",
-    "Technical Documentation/Backend Engineering/Frameworks",
+    "Technical Documentation/Backend Engineering/Frameworks/Django and Django REST Framework",
+    "Technical Documentation/Backend Engineering/Frameworks/Django and Django REST Framework/Django/MVT Design Pattern.md",
+    "Technical Documentation/Programming Languages/Python/Concurrency in Python/Concurrency.md",
+    "Technical Documentation/Programming Languages/Python/Concurrency in Python/README.md",
+    "Technical Documentation/Programming Languages/Python/Concurrency in Python/Threading.md",
+    "Technical Documentation/Programming Languages/Python/Basic of Python.md",
+    "Technical Documentation/Programming Languages/Python/Python OOP Basics.md",
+    "Technical Documentation/Programming Languages/Python/Concurrency in Python/assets/images/cpu_bound_workloads_in_python_multiprocessing.png",
+    "Technical Documentation/Programming Languages/Python/Concurrency in Python/assets/images/cpu_bound_workloads_threading.png",
+    "Technical Documentation/Programming Languages/Python/Concurrency in Python/assets/images/workloads.png",
+    "Technical Documentation/Programming Languages/Python/Concurrency in Python/assets/images/another_approach_to_multitasking.png",
+    "Technical Documentation/CS Fundamentals/OS/CPU Scheduling Basics.md",
+    "Technical Documentation/CS Fundamentals/OS",
+    "Technical Documentation/Programming Languages/Python/Concurrency in Python/assets/images/gil.png",
+    "Technical Documentation/Programming Languages/Python/Concurrency in Python/assets/images/multitasking.png",
+    "Technical Documentation/Programming Languages/Python/Concurrency in Python/assets/images/scheduling.png",
+    "Technical Documentation/Programming Languages/Python/Concurrency in Python/assets/images/threads.png",
+    "Technical Documentation/Programming Languages/Python/Concurrency in Python/assets/images/processes.png",
+    "Technical Documentation/Programming Languages/Python/Concurrency in Python/assets/images/time_sliced_execution.png",
+    "Technical Documentation/Programming Languages/Python/Concurrency in Python/assets/images",
+    "Technical Documentation/Programming Languages/Python/Concurrency in Python/assets/excalidraw/concurrency_introduction.excalidraw.md",
+    "Technical Documentation/Programming Languages/Python/Concurrency in Python/assets/Drawing 2023-11-07 16.45.30.excalidraw.md",
+    "Technical Documentation/Programming Languages/Python/Concurrency in Python/assets/excalidraw",
+    "Technical Documentation/Programming Languages/Python/Concurrency in Python/assets/Drawing 2023-11-07 16.40.45.excalidraw.md",
+    "Technical Documentation/Programming Languages/Python/Concurrency in Python/assets",
+    "Technical Documentation/Utilities/Mermaid JS/Flowchart.md",
+    "Technical Documentation/Programming Languages/Java/Java Basics/README.md",
     "Technical Documentation/Frontend Engineering/HTML/Creating Hyperlinks.md",
-    "Technical Documentation/Frontend Engineering/HTML/HTML Text Fundamentals.md",
-    "Technical Documentation/Frontend Engineering/HTML/Metadata in HTML.md",
-    "Technical Documentation/Machine Learning/Supervised Machine Learning/3. Classification",
-    "Technical Documentation/Machine Learning/Supervised Machine Learning/2. Regression with Multiple Input Variables",
-    "Technical Documentation/Machine Learning/Supervised Machine Learning/1. Introduction to Machine Learning",
-    "Technical Documentation/Machine Learning/Supervised Machine Learning",
-    "Technical Documentation/Frontend Engineering/HTML/HTML Concepts.md",
-    "Technical Documentation/Frontend Engineering/HTML/Anatomy of an HTML document.md",
-    "Technical Documentation/Utilities/Mermaid JS/README.md",
-    "Obsidian Plugins Documentation - CheatSheet/Mermaid JS/Flowchart.md",
-    "Technical Documentation/Frontend Engineering/CSS/assets/images/css-box-model.png",
-    "Tracking Boards/Untitled.canvas",
-    "Technical Documentation/Frontend Engineering/CSS/assets/images/CSS Ruleset.png",
-    "Technical Documentation/Frontend Engineering/General Concepts/assets/images/Pasted image 20230922182042.png",
-    "Technical Documentation/Frontend Engineering/General Concepts/assets/images/HTML_DOM.png",
-    "Technical Documentation/QA and Testing/QA/Cypress/Cypress Project Folder Structure/assets/images/Screenshot 2023-09-18 165900.png",
-    "Technical Documentation/QA and Testing/QA/Cypress/Continuous Integration with Cypress/assets/images/AngularCI.png",
-    "QA/Cypress/Continuous Integration with Cypress/assets/images/Angular CI 1.png",
-    "QA/Cypress/Continuous Integration with Cypress/assets/images/Screenshot 2023-09-18 151030.png",
-    "QA/Cypress/Continuous Integration with Cypress/assets/Screenshot 2023-09-18 151030.png"
+    "Technical Documentation/Programming Languages/Python/README.md",
+    "Technical Documentation/Programming Languages/Python/Untitled",
+    "Technical Documentation/Programming Languages/Python/CPython Internals/Setting up cpython locally and making your first change.md",
+    "Technical Documentation/Programming Languages/Python/CPython Internals/README.md",
+    "Technical Documentation/Programming Languages/Python/Concurrency in Python",
+    "Technical Documentation/Web Technologies/XML/XPath.md",
+    "Dictionary.md",
+    "Technical Documentation/Web Technologies/XML/XQuery.md",
+    "Technical Documentation/Web Technologies/XML/XML Basics.md",
+    "Technical Documentation/Web Technologies/XML/assets/excalidraw/XPath.excalidraw.md",
+    "Technical Documentation/Web Technologies/XML/README.md",
+    "Technical Documentation/Web Technologies/XML/assets/excalidraw",
+    "Technical Documentation/Web Technologies/XML/assets",
+    "Tracking Boards/Untitled.canvas"
   ]
 }
